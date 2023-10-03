@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.CSC340f23.TestCountrieAPI.TestCountrieApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.499 s - in com.CSC340f23.TestCountrieAPI.TestCountrieApiApplicationTests
